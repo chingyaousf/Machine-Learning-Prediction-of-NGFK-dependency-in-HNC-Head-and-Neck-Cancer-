@@ -1,4 +1,4 @@
-# Machine Learning Prediction of NGFK   dependency in HNC (Head and Neck Cancer)
+# Machine Learning Prediction of NGFK dependency in HNC (Head and Neck Cancer)
 
 ## Project Overview:
 
@@ -6,7 +6,7 @@ In this project, we aim to explore the relationship between EGFR CRISPR gene dep
 
 ![](https://github.com/chingyaousf/Machine-Learning-Prediction-of-NGFK-dependency-in-HNC-Head-and-Neck-Cancer-/blob/main/plots/filtered_arranged_hnc_table.png?raw=true)
 
-### K-Means 5 clusters:![](https://github.com/chingyaousf/Machine-Learning-Prediction-of-NGFK-dependency-in-HNC-Head-and-Neck-Cancer-/blob/main/plots/filtered_arranged_hnc_table_KMeans_clustering.png?raw=true)
+### K-Means 5 clusters:![](https://github.com/chingyaousf/Machine-Learning-Prediction-of-NGFK-dependency-in-HNC-Head-and-Neck-Cancer-/blob/main/plots/filtered_arranged_hnc_table_KMeans_clustering.png?raw=true)![](https://github.com/chingyaousf/Machine-Learning-Prediction-of-NGFK-dependency-in-HNC-Head-and-Neck-Cancer-/blob/main/plots/filtered_arranged_hnc_table_KMeans_clustering_3D.png?raw=true)
 
 ### RF models using K-Means 5 clusters:
 
